@@ -78,7 +78,7 @@ Hipchat tab. Enter the required credentials and click save changes.
 Slack
 -------
 
-As of March 28, 2018, Slack is part of core Sentry and no longer a plug-in. To configure Slack with your on-prem Sentry please see [this forum post](https://forum.sentry.io/t/how-to-configure-slack-in-your-on-prem-sentry/3463/2).
+As of March 28, 2018, Slack is part of core Sentry and no longer a plug-in. To configure Slack with your on-prem Sentry please see [this forum post](https://forum.sentry.io/t/how-to-configure-slack-in-your-on-prem-sentry/3463/).
 
 
 Visual Studio (Team Services)
